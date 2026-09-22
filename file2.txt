@@ -1,2 +1,4 @@
 python sql
 langchain
+kya h 
+kya kare
